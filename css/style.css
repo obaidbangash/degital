@@ -339,6 +339,10 @@ header .header-wrapper #navbarSupportedContent .navbar-header li:hover a {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+.our-services .services-card .card-img a.app-aid i {
+  font-size: 30px;
+  color: #fff;
+}
 .our-services .services-card h4 {
   font-size: 24px;
   line-height: 30px;
